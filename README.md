@@ -35,3 +35,5 @@
 maxConnections : 2
 rateLimit: 5000
 ```
+### 申明
+- 代码仅供学习分享，禁止商业用途
